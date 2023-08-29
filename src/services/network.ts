@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:5000";
+export const BASE_URL = "https://busy-bass-shift.cyclic.app";
 
 const axios = require("axios").default;
 
